@@ -6,5 +6,4 @@
 
 * 극좌표(Polar Coodinate)란? 직교좌표에서 표현한 점의 위치를 각도와 거리를 써서 나타내는 좌표계이다.  
 
-<br/>
-![](/Img/극좌표와 직교좌표 사이의 변환/극좌표와 직교좌표 사이의 변환.png)
+![](https://github.com/JaejinDo/Record/blob/main/Img/Converting_between_polar_and_Cartesian_coordinates/Converting_between_polar_and_Cartesian_coordinates.png)
