@@ -6,4 +6,10 @@
 
 * 극좌표(Polar Coodinate)란? 직교좌표에서 표현한 점의 위치를 각도와 거리를 써서 나타내는 좌표계이다.  
 
+<br/>
+아래 이미지의 r과 θ는 삼각함수를 이용해 직교좌표의 x와 y로 변환할 수 있다.  
+
+극좌표와 데카르트 좌표 사이의 관계를 묘사하는 이미지이다.  
+
+<br/>
 <img src="https://github.com/JaejinDo/Record/blob/main/Img/Converting_between_polar_and_Cartesian_coordinates/Converting_between_polar_and_Cartesian_coordinates.png" width="512" height="507">
