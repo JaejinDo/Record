@@ -20,4 +20,6 @@
 ## Etc
 ### used when you are trying to explain or describe something, but you cannot be exact
 ### <span style="color: blue">정확하지 않은 무언가를 묘사하거나 설명할 때 쓰임</span>
+<br/>
+
 * It's **kind of** unusual.
