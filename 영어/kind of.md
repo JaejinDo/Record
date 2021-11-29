@@ -7,8 +7,6 @@
 
 * What **kind of** music do you like?  
 <br/>
----
-<br/>
 
 ## adjective
 ### doing things to help others and showing that you care about them
